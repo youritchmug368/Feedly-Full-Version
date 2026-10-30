@@ -242,4 +242,4 @@ This repository serves as the official landing page for feedly. The software is 
 **Get the most recent version of feedly today!**
 
 ---
-**Last updated:** 2026-10-29 22:20:25 UTC
+**Last updated:** 2026-10-30 02:20:48 UTC
